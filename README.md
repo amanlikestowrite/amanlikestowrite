@@ -39,8 +39,8 @@ Like that chalkboard wall above, my mind is full of places, ideas, and half-fini
 <div align="center">
 
 <table><tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=amanlikestowrite&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="Aman's GitHub Stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanlikestowrite&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanlikestowrite&theme=tokyonight" alt="Aman's GitHub Stats" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanlikestowrite&theme=tokyonight" alt="Top Languages" /></td>
 </tr></table>
 
 <img src="https://streak-stats.demolab.com/?user=amanlikestowrite&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
