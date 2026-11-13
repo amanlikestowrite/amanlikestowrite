@@ -8,8 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F7B731&center=true&vCenter=true&width=520&lines=I+write+stories.;I+write+code.;I+collect+places+I+haven't+been+to+yet." alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=amanlikestowrite&color=f7b731&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/amanlikestowrite?style=flat-square&color=f7b731)
 
 </div>
 
