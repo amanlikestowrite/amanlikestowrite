@@ -8,6 +8,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F7B731&center=true&vCenter=true&width=520&lines=I+write+stories.;I+write+code.;I+collect+places+I+haven't+been+to+yet." alt="Typing SVG" />
 
+![Profile Views](https://komarev.com/ghpvc/?username=amanlikestowrite&color=f7b731&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/amanlikestowrite?style=flat-square&color=f7b731)
 
 </div>
 
@@ -36,8 +38,11 @@ Like that chalkboard wall above, my mind is full of places, ideas, and half-fini
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amanlikestowrite&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanlikestowrite&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=amanlikestowrite&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aman's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanlikestowrite&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=amanlikestowrite&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
