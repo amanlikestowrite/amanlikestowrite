@@ -39,8 +39,6 @@ Like that chalkboard wall above, my mind is full of places, ideas, and half-fini
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=amanlikestowrite&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanlikestowrite&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com/?user=amanlikestowrite&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ## 📝 Currently
