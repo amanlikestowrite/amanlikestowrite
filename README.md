@@ -45,14 +45,6 @@ Like that chalkboard wall above, my mind is full of places, ideas, and half-fini
 
 </div>
 
-## 🚀 Featured Projects
-
-| Project | What it is |
-| --- | --- |
-| 🔹 **Project One** | A short line about what it does |
-| 🔹 **Project Two** | A short line about what it does |
-| 🔹 **Project Three** | A short line about what it does |
-
 ## 📝 Currently
 
 - 🔭 Working on: *something exciting*
