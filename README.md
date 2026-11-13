@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./intro.jpeg" alt="A wall of places yet to be explored" width="100%" />
+<img src="./intro.jpeg" alt="A wall of places yet to be explored" width="60%" />
 
 # Hey, I'm Aman 👋
 
